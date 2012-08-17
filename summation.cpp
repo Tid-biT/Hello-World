@@ -116,7 +116,7 @@ int main(int argc, char **argv)
 	argv += args_used; // move on to the next arg value
 
 	Summation();
-	printf("\n");
+	printf("\n"); // added a comment
 
 	return 0;
 }
